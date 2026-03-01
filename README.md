@@ -98,7 +98,7 @@ customer-churn-app/
 
 Clone the repository:
 
-git clone https://github.com/your-username/customer-churn-app.git
+git clone https://github.com/SnehithaReddySudini/customer-churn-app.git
 cd customer-churn-app
 
 Install dependencies:
